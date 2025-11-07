@@ -164,7 +164,7 @@
 
 
  @media (min-width: 768px) {
-   .desktop-nav a {
+   .desktop-nav a/ {
        text-decoration: none;
        font-size: larger;
        color: var(--black);
